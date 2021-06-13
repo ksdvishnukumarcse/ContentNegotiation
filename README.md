@@ -1,5 +1,2 @@
 # aspnet-core-3-jwt-authentication-api
-
-ASP.NET Core 3.1 - JWT Authentication API
-
-For documentation and instructions check out https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+Try with "application/xml; q=0.5, application/json; q=0.3, text/csv;q=1.0" in the request and see the difference
